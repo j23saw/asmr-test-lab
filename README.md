@@ -1,3 +1,3 @@
 
-Compilation of DSC-RAIT resources
+Compilation of DSC-RAIT Resources
 =================================

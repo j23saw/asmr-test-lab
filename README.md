@@ -35,3 +35,37 @@ Kali Linux: https://www.kali.org/
 ## UI/UX
 
 ## Interviews
+
+## Web Development
+
+## App Development
+
+## Machine Learning
+
+## DevOps & Cloud Computing
+
+## Data Science
+
+## Cybersecurity
+
+## AR/VR
+
+## UI/UX
+
+## Web Development
+
+## App Development
+
+## Machine Learning
+
+## DevOps & Cloud Computing
+
+## Data Science
+
+## Cybersecurity
+
+## AR/VR
+
+## UI/UX
+
+## UI/UX
